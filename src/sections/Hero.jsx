@@ -2,8 +2,7 @@ import gsap from "gsap";
 import { useGSAP } from "@gsap/react";
 
 import { useMaskSettings } from '../../constants';
-import ComingSoon from "./ComingSoon";
-
+import ComingSoon from "./ComingSoon"
 
 const Hero = () => {
   const { initialMaskPos, initialMaskSize, maskPos, maskSize } = useMaskSettings();
@@ -58,7 +57,7 @@ const Hero = () => {
         <img src="/images/big-hero-text.svg" className="overlay-logo" />
       </div>
 
-    <ComingSoon/>
+      <ComingSoon />
     </section>
   )
 }
