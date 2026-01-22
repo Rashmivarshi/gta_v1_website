@@ -168,7 +168,7 @@ main {
       }
     }
     .lucia-2 {
-      @apply bg-yellow lg:h-[60vh] lg:w-[70%] w-[80%] md:my-36 my-20 lg:-translate-x-5 translate-x-5;
+      @apply bg-yellow lg:h-[50vh] lg:w-[70%] w-[80%] md:my-36 my-20 lg:-translate-x-5 translate-x-5;
 
       img {
         @apply size-full object-cover [object-position:50%_center] hover:scale-x-[0.98] hover:scale-y-[0.98] transition duration-700 ease-in-out;

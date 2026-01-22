@@ -47,8 +47,7 @@ const Lucia = () => {
             </div>
             <p className="max-w-xl lg:ps-32 ps-10">More than anything, Lucia wants the good life her mom has dreamed of since their days in Liberty City — but instead of half-baked fantasies, Lucia is prepared to take matters into her own hands.</p>
         </div>
-
-        
+       
     </section>
   )
 }
