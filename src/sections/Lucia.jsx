@@ -24,7 +24,7 @@ const Lucia = () => {
         }, y: -200, duration: 1, ease: 'power1.inOut'
     }, '<')
     }) 
-  return (
+return (
     <section className='lucia-life'>
         <div className="flex flex-col gap-5 items-end img-box lg:1/2 ps-10 mt-96">
             <div className='lucia-1'>
@@ -47,9 +47,9 @@ const Lucia = () => {
             </div>
             <p className="max-w-xl lg:ps-32 ps-10">More than anything, Lucia wants the good life her mom has dreamed of since their days in Liberty City — but instead of half-baked fantasies, Lucia is prepared to take matters into her own hands.</p>
         </div>
-       
+    
     </section>
-  )
+)
 }
 
 export default Lucia
