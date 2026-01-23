@@ -1,4 +1,4 @@
-const Navbar = () => {
+const NavBar = () => {
   return (
     <nav>
         <img src="/images/nav-logo.svg" className='scale-90'/>
@@ -7,4 +7,4 @@ const Navbar = () => {
   )
 }
 
-export default Navbar
+export default NavBar
